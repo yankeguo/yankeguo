@@ -15,11 +15,11 @@
 
 [![Static Badge](https://img.shields.io/badge/Email-hi%40guoyk.xyz-purple?style=flat-square)](mailto:hi@guoyk.xyz)
 [![Static Badge](https://img.shields.io/badge/Website-guoyk.xyz-black?style=flat-square)](https://guoyk.xyz)
-[![Static Badge](https://img.shields.io/badge/Website-mirror.xyz%2Fguoyk.eth-black?style=flat-square)](https://mirror.xyz/guoyk.eth)
+[![Static Badge](https://img.shields.io/badge/Twitter-yankeguo-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yankeguo)
 
 ### Donation
 
-[![Static Badge](https://img.shields.io/badge/Patreon-Membership-orange?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/guoyk)
+[![Static Badge](https://img.shields.io/badge/Patreon-Membership-orange?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/yankeguo)
 [![Static Badge](https://img.shields.io/badge/GitHub-Sponsors-orange?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/guoyk93)
 [![Static Badge](https://img.shields.io/badge/BTC-Donation-orange?style=flat-square&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1qfjnfnxwgjdwuqyhvgw5f6fxa76axjrfa82plmr)
 [![Static Badge](https://img.shields.io/badge/ETH-Donation-orange?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/address/0x41D4c3Eaf03fa202841e18002c29593cD24a97F6)
