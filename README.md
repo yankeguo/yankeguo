@@ -1,4 +1,4 @@
-## Hi there 👋, I'm GUO YANKE
+## Hi there 👋, I'm Yanke
 
 [![Static Badge](https://img.shields.io/badge/Professional-DevOps-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yankeguo)
 [![Static Badge](https://img.shields.io/badge/Location-Shenzhen-red?style=flat-square&logo=googlemaps)](https://goo.gl/maps/JREMqbKoDtqFZicA9)
