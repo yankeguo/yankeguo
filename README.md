@@ -11,8 +11,8 @@
 
 ### Social
 
-[![Static Badge](https://img.shields.io/badge/Email-hi%40guoyk.xyz-purple?style=flat-square)](mailto:hi@guoyk.xyz)
-[![Static Badge](https://img.shields.io/badge/Website-guoyk.xyz-black?style=flat-square)](https://guoyk.xyz)
+[![Static Badge](https://img.shields.io/badge/Email-hi%40yankeguo.com-purple?style=flat-square)](mailto:hi@yankeguo.com)
+[![Static Badge](https://img.shields.io/badge/Website-yankeguo.com-black?style=flat-square)](https://yankeguo.com)
 [![Static Badge](https://img.shields.io/badge/Discord-yankeguo-blue?style=flat-square&logo=discord)](https://discordapp.com/users/1065517056755245086)
 [![Static Badge](https://img.shields.io/badge/X-yankeguo-black?style=flat-square&logo=x)](https://twitter.com/yankeguo)
 
