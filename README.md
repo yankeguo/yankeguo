@@ -26,4 +26,4 @@
 ### Security
 
 [![Static Badge](https://img.shields.io/badge/View-Still_alive%3F-red?style=flat-square)](https://yankeguo.github.io/lastwill/)
-[![Static Badge](https://img.shields.io/badge/View-GPG_Public_Key-red?style=flat-square)](https://keys.openpgp.org/vks/v1/by-fingerprint/A6FB4D8120AAA4E8E2A89B718E7B7CC8133641B2)
+[![Static Badge](https://img.shields.io/badge/View-GPG_Public_Key-red?style=flat-square)](https://keys.openpgp.org/search?q=hi@yankeguo.com)
