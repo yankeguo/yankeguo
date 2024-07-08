@@ -1,0 +1,12 @@
+{
+  "name": "yankeguo-profile",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
