@@ -27,3 +27,5 @@
 
 [![Static Badge](https://img.shields.io/badge/View-Still_alive%3F-red?style=flat-square)](https://yankeguo.github.io/lastwill/)
 [![Static Badge](https://img.shields.io/badge/View-GPG_Public_Key-red?style=flat-square)](https://keys.openpgp.org/search?q=hi@yankeguo.com)
+
+### GitHub followers may claim a NFT at [🪂 airdrop.yankeguo.com](https://airdrop.yankeguo.com)
