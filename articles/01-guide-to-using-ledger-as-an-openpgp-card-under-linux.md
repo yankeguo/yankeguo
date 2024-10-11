@@ -62,29 +62,29 @@ sudo pcsc_scan -r
 
 If your Ledger device is not listed, you need to do following steps:
 
-1. Gather information of your Ledger device
+**1. Gather information of your Ledger device**
 
-   Execute `lsusb`, you will find something like this
+Execute `lsusb`, you will find something like this
 
-   > Bus 002 Device 005: ID 2c97:4009 Ledger Nano X
+> Bus 002 Device 005: ID 2c97:4009 Ledger Nano X
 
-   This means your Ledger device have:
+This means your Ledger device have:
 
-   - `VendorID` = `0x2C97`
-   - `ProductID` = `0x4009`
-   - `DisplayName` = `Ledger Nano X`
+- `VendorID` = `0x2C97`
+- `ProductID` = `0x4009`
+- `DisplayName` = `Ledger Nano X`
 
-2. Edit `/etc/libccid_Info.plist`
+**2. Edit `/etc/libccid_Info.plist`**
 
-   Add `VendorID`, `ProductID` and `DisplayName` to `ifdVendorID`, `ifdProductID` and `ifdFriendlyName` sections.
+Add `VendorID`, `ProductID` and `DisplayName` to `ifdVendorID`, `ifdProductID` and `ifdFriendlyName` sections.
 
-3. Restart `pcscd`
+**3. Restart `pcscd`**
 
-   ```shell
-   sudo systemctl restart pcscd
-   ```
+```shell
+sudo systemctl restart pcscd
+```
 
-Rerun `sudo pcsc_scan -r` to check if your Ledger device is recognized.
+**4. Rerun `sudo pcsc_scan -r` to check if your Ledger device is recognized**
 
 ### 5. Disable built-in `ccid` support for `scdaemon`
 
